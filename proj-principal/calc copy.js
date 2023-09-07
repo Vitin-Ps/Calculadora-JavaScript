@@ -12,7 +12,7 @@ let btnAnterior = "";
 let btnIgual = false;
 let btnCE = "CE";
 let tipoOperacao = "";
-let valor01 = 0;
+let valor01 = 0;..
 
 text.value = "0"; // adiciona 0 ao input
 
